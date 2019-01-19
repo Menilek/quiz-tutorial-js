@@ -1,3 +1,12 @@
 body{
     background-color: black;
 }
+
+input[type="radio"]{
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+label[for="fifteen"], label[for="twenty"], label[for="twentyfive"]{
+    line-height: 24px;
+    margin-bottom: 10px;
+}
